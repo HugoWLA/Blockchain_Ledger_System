@@ -29,9 +29,9 @@ or git bash with the following command of `streamlit run pychain.py`
 
 ![streamlit video](images/Streamlit18.mov)
 
-![streamlit image 1](images/18streamlit1)
+![streamlit image 1](images/18streamlit1.png)
 
-![streamlit image 2](images/18streamlit2)
+![streamlit image 2](images/18streamlit2.png)
 
 
 # License
