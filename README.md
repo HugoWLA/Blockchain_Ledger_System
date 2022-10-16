@@ -27,10 +27,11 @@ This project uses Python and was operated on VSCode in conjuction with the follo
 For usage of this application `pychain.py` may be cloned and ran locally on terminal
 or git bash with the following command of `streamlit run pychain.py`
 
-![streamlit video](images/Streamlit18.mov)
 
+### Image of Adding blocks 
 ![streamlit image 1](images/18streamlit1.png)
 
+### Image of Validating chain
 ![streamlit image 2](images/18streamlit2.png)
 
 
